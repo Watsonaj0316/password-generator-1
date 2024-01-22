@@ -1,6 +1,6 @@
 # password-generator-1
 
-Linknto the deployed application:
+Link to the deployed application:
 
  https://watsonaj0316.github.io/password-generator-1/
 
