@@ -13,9 +13,9 @@ Link to the deployed application:
 
  This site allows you to create a unique password based on the instructions it provides you.
 
- General Info: This website promptys the user to create a unique password.
+ General Info: This website prompts the user to create a unique password.
 
- Screenmshot of the folowing application:
+ Screenshot of the folowing application:
 
  ![screenshot](image_67154945.JPG)
 
